@@ -1,4 +1,4 @@
-### Revenue Insights in Hospitality using PowerBI
+### Revenue Insights in Hospitality Domain using PowerBI
 
 
 
@@ -13,6 +13,5 @@ This Power BI project focuses on analyzing revenue insights within the hospitali
 
 1. Visualized revenue trends across different booking sources and periods.
 2. Insights into the impact of room types, packages, and pricing on revenue.
-3. Interactive visualizations for easy exploration.
    
-Designed for revenue managers and hotel professionals, the dashboard provides actionable insights for revenue optimization. This project showcases my data analysis skills while offering a valuable tool for enhancing revenue strategies in the hospitality industry.
+Designed for revenue managers and hotel professionals, this dashboard provides actionable insights for revenue optimization.
