@@ -9,9 +9,9 @@
 
 
 ### Project Overview: 
-This Power BI project focuses on analyzing revenue insights within the hospitality domain, specifically hotels booking. The dashboard offers:
+This Power BI project focuses on analyzing Revenue Insights within the Hospitality domain, specifically Hotel Booking. The dashboard offers:
 
 1. Visualized revenue trends across different booking sources and periods.
 2. Insights into the impact of room types, packages, and pricing on revenue.
    
-Designed for revenue managers and hotel professionals, this dashboard provides actionable insights for revenue optimization.
+Designed for revenue managers and hotel professionals, this interactive dashboard provides actionable insights for revenue optimization.
